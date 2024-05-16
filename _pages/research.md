@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 ---
 
-- MultiLingCommunity – 2024, Saarland University, Internationalisierungsfonds, [Transform4Europe](https://www.uni-saarland.de/global/transform4europe.html), [UniGr](https://www.uni-gr.eu/de)
+- [MultiLingCommunity](https://www.uni-saarland.de/en/department/lst/news/funding-for-the-multilingcommunity-project-29854.html) ─ 2024, Saarland University, Internationalisierungsfonds, [Transform4Europe](https://www.uni-saarland.de/global/transform4europe.html), [UniGr](https://www.uni-gr.eu/de)
 
 - [MultiLingID-Portal](https://intercomprehension.coli.uni-saarland.de/en/) ─ 2023, Saarland University, Internationalisierungsfonds [Transform4Europe](https://www.uni-saarland.de/global/transform4europe.html)
 
