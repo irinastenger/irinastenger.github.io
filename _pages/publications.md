@@ -16,6 +16,9 @@ author_profile: true
 **Stenger, Irina**. [2019](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/30914/1/ZurRollederOrthographieinderslavischenInterkomprehension.pdf) . *Zur Rolle der Orthographie in der slavischen Interkomprehension mit besonderem Fokus auf die kyrillische Schrift*. Dissertation. Saarbrücken: universaar.
 
 ---
+**2024**
+
+---
 **2023**
 
 **Stenger, Irina** & Tania Avgustinova. [2023](https://ibl.bas.bg/izvestiya/wp-content/uploads/2023/10/01_AvgustinovaStenger_2023_IIBE-XXXVI_7-28.pdf). Web-based Experiments in Mediated Receptive Multilingualism. Papers of the Institute for Bulgarian Language “Prof. Lyubomir Andreychin”, Prof. Marin Drinov Publishing House of Bulgarian Academy of Sciences, Sofia, Volume XXXVI: 7–28.
