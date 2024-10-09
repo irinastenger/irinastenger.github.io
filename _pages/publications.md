@@ -19,6 +19,10 @@ author_profile: true
 **2024**
 
 ---
+Zaitova, Iuliia, **Irina Stenger**, Wei Xue, Tania Avgustinova, Bernd Möbius, Dietrich Klakow. Cross-Linguistic Intelligibility of Non-Compositional Expressions in Spoken Context. [2024](https://www.isca-archive.org/interspeech_2024/zaitova24_interspeech.pdf). Proceedings of Interspeech 2024, ISCA, 4189–4193.
+
+Zaitova, Iuliia, Irina Stenger, Muhammad Umer Butt & Tania Avgustinova. [2024](https://aclanthology.org/2024.cogalex-1.10.pdf). Cross-Linguistic Processing of Non-Compositional Expressions in Slavic Languages. In: Michael Zock et al. (eds.), Proceedings of the Workshop on Cognitive Aspects of the Lexicon @ LREC-COLING 2024, 86–97.
+
 **2023**
 
 **Stenger, Irina** & Tania Avgustinova. [2023](https://ibl.bas.bg/izvestiya/wp-content/uploads/2023/10/01_AvgustinovaStenger_2023_IIBE-XXXVI_7-28.pdf). Web-based Experiments in Mediated Receptive Multilingualism. Papers of the Institute for Bulgarian Language “Prof. Lyubomir Andreychin”, Prof. Marin Drinov Publishing House of Bulgarian Academy of Sciences, Sofia, Volume XXXVI: 7–28.
