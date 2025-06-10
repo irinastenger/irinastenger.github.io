@@ -52,7 +52,7 @@ Kudera, Jacek, **Irina Stenger**, Bernd Möbius, Tania Avgustinova, Dietrich Kla
 
 **Stenger, Irina** & Tania Avgustinova. [2021](https://ibl.bas.bg/wp-content/uploads/2021/06/Sbornik_s_dokladi_CONFIBL2021_tom_2_FINAL.pdf). Multilingual learnability and reaction time in online Slavic intercomprehension experiments. In: Svetla Koeva & Maksim Stamenov (eds.). Proceedings of the International Annual Conference of the Institute for Bulgarian Language (Sofia, 2021). Sofia: Marin Drinov Academic Publishers. Volume 2: 191–200. 
 
-**Stenger, Irina** & Tania Avgustinova. [2021](https://www.dialog-21.ru/media/5547/stengeriplusavgustinovat027.pdf). On Slavic cognate recognition in context. In: Vladimir P. Selegej et al. (eds.), Computational Linguistics and Intellectual Technologies: Papers from the Annual International Conference ‘Dialogue’ (2021). Issue 20, 660–668. 
+**Stenger, Irina** & Tania Avgustinova. [2021](https://dialogue-conf.org/media/5547/stengeriplusavgustinovat027.pdf). On Slavic cognate recognition in context. In: Vladimir P. Selegej et al. (eds.), Computational Linguistics and Intellectual Technologies: Papers from the Annual International Conference ‘Dialogue’ (2021). Issue 20, 660–668. 
 
 Mosbach, Marius, **Irina Stenger**, Tania Avgustinova, Bernd Möbius, Dietrich Klakow. [2021](https://aclanthology.org/2021.ranlp-1.110.pdf). Incom.py 2.0 - Calculating Linguistic Distances and Asymmetries in Auditory Perception of Closely Related Languages. In: G. Angelova et al. (eds.), Proceedings of Recent Advances in Natural Languages Processing (RANLP 2021), 968–977. 
 
@@ -62,7 +62,7 @@ Mosbach, Marius, **Irina Stenger**, Tania Avgustinova, Bernd Möbius, Dietric
 
 **Stenger, Irina** & Tania Avgustinova. [2020](https://ibl.bas.bg/wp-content/uploads/2020/07/PROCEEDINGS_IBLCONF2020_vol2.pdf). How intelligible is spoken Bulgarian for Russian native speakers in an intercomprehension scenario? In: Vanya Micheva et al. (eds.) Proceedings of the International Annual Conference of the Institute for Bulgarian Language (Sofia 2020), Volume II: 142–151. 
 
-**Stenger, Irina** & Tania Avgustinova. [2020](https://www.dialog-21.ru/media/5119/stengeriplusavgustinovat-045.pdf). Visual vs. auditory perception of Bulgarian stimuli by Russian native speakers. In: Vladimir P. Selegej et al. (eds.), Computational Linguistics and Intellectual Technologies: Papers from the Annual International Conference ‘Dialogue’ (2020). Issue 19, 684–695. 
+**Stenger, Irina** & Tania Avgustinova. [2020](https://dialogue-conf.org/media/5119/stengeriplusavgustinovat-045.pdf). Visual vs. auditory perception of Bulgarian stimuli by Russian native speakers. In: Vladimir P. Selegej et al. (eds.), Computational Linguistics and Intellectual Technologies: Papers from the Annual International Conference ‘Dialogue’ (2020). Issue 19, 684–695. 
 
 **Stenger, Irina**, Klára Jágrová, Tania Avgustinova. [2020](https://aclanthology.org/2020.cllrd-1.6.pdf). The INCOMSLAV Platform: Experimental Website with Integrated Methods for Measuring Linguistic Distances and Asymmetries in Receptive Multilingualism. In James Fiumara, Christopher Cieri, Mark Liberman, Chris Callison-Burch (eds.), LREC 2020 Workshop Language Resources and Evaluation Conference 11-16 May 2020, Citizen Linguistics in Language Resource Development (CLLRD 2020), Proceedings, 40–48. 
 
@@ -76,7 +76,7 @@ Jágrová, Klára, **Irina Stenger** & Magdalena Telus. [2019/2020](polnischunte
 
 **2019**
 
-**Stenger, Irina**, Tania Avgustinova, Konstantin I. Belousov, Dmitrij A. Baranov & Elena V. Erofeeva. [2019](https://www.dialog-21.ru/media/5196/_-dialog2019volplus.pdf). Interaction of linguistic and socio-cognitive factors in receptive multilingualism. [Vzaimodejstvie lingvističeskich i sociokognitivnych parametrov pri receptivnom mul’tilingvisme.] In: Vladimir P. Selegej et al. (eds.), Computational Linguistics and Intellectual Technologies: Papers from the Annual International Conference ‘Dialogue’ (2019). Issue 18. Supplementary volume, 211–226.
+**Stenger, Irina**, Tania Avgustinova, Konstantin I. Belousov, Dmitrij A. Baranov & Elena V. Erofeeva. [2019](https://dialogue-conf.org/media/5196/_-dialog2019volplus.pdf). Interaction of linguistic and socio-cognitive factors in receptive multilingualism. [Vzaimodejstvie lingvističeskich i sociokognitivnych parametrov pri receptivnom mul’tilingvisme.] In: Vladimir P. Selegej et al. (eds.), Computational Linguistics and Intellectual Technologies: Papers from the Annual International Conference ‘Dialogue’ (2019). Issue 18. Supplementary volume, 211–226.
 
 Mosbach, Marius, **Irina Stenger**, Tania Avgustinova & Dietrich Klakow. [2019](https://aclanthology.org/R19-1094.pdf). incom.py - A Toolbox for Calculating Linguistic Distances and Asymmetries between Related Languages. In: Galia Angelova, Ruslan Mitkov, Ivelina Nikolova, Irina Temnikova (eds.), Proceedings of Recent Advances in Natural Languages Processing, RANLP 2019, Varna, Bulgaria, 2-4 September 2019, 811–819.
 
@@ -92,7 +92,7 @@ Jágrová, Klára, Tania Avgustinova, **Irina Stenger** & Andrea Fischer. [2018]
 
 **2017**
 
-**Stenger, Irina**, Tania Avgustinova & Roland Marti. [2017](www.dialog-21.ru/media/3982/dialogue2017_v1.pdf). Levenshtein distance and word adaptation surprisal as methods of measuring mutual intelligibility in reading comprehension of Slavic languages. In: Vladimir P. Selegej (ed.), Computational Linguistics and Intellectual Technologies: International Conference ‘Dialogue 2017’ Proceedings. Issue 16 (23), vol. 1, 304–317. 
+**Stenger, Irina**, Tania Avgustinova & Roland Marti. [2017](https://dialogue-conf.org/media/3953/stengerietal.pdf). Levenshtein distance and word adaptation surprisal as methods of measuring mutual intelligibility in reading comprehension of Slavic languages. In: Vladimir P. Selegej (ed.), Computational Linguistics and Intellectual Technologies: International Conference ‘Dialogue 2017’ Proceedings. Issue 16 (23), vol. 1, 304–317. 
 
 **Stenger, Irina**, Klára Jágrová, Andrea Fischer, Tania Avgustinova, Dietrich Klakow & Roland Marti. [2017](https://www.cambridge.org/core/journals/nordic-journal-of-linguistics/article/abs/modeling-the-impact-of-orthographic-coding-on-czechpolish-and-bulgarianrussian-reading-intercomprehension/363BEB5C556DFBDAC7FEED0AE06B06AA). Modeling the Impact of Orthographic Coding on Czech-Polish and Bulgarian-Russian Reading Intercomprehension. Nordic Journal of Linguistic 40(2), 175–199.
 
