@@ -16,6 +16,12 @@ author_profile: true
 **Stenger, Irina**. [2019](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/30914/1/ZurRollederOrthographieinderslavischenInterkomprehension.pdf) . *Zur Rolle der Orthographie in der slavischen Interkomprehension mit besonderem Fokus auf die kyrillische Schrift*. Dissertation. Saarbrücken: universaar.
 
 ---
+**2025**
+
+**Stenger, Irina**, Inna Ganschow & Tania Avgustinova. 2025. Migrations- und Mehrsprachigkeitsforschung im digitalen Format. [Day of Contemporary History in the Greater Region](https://www.uni.lu/c2dh-en/events/day-of-contemporary-history-in-the-greater-region/#panel-4-ai-digital-memory-msa-3-070), University of Luxembourg, Luxembourg.
+
+Kunilovskaya, Maria, Iuliia Zaitova, Wei Xue, **Irina Stenger** & Tania Avgustinova. [2025](https://dspace.ut.ee/server/api/core/bitstreams/8da7b300-5397-4586-94c3-f2af27e8e1a1/content). Predictability of Microsyntactic Units across Slavic Languages: A Translation-based Study. Proceedings of the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025), University of Tartu Library, Tallinn, Estonia, 313–322.
+
 **2024**
 
 Zaitova, Iuliia, **Irina Stenger**, Wei Xue, Tania Avgustinova, Bernd Möbius, Dietrich Klakow. Cross-Linguistic Intelligibility of Non-Compositional Expressions in Spoken Context. [2024](https://www.isca-archive.org/interspeech_2024/zaitova24_interspeech.pdf). Proceedings of Interspeech 2024, ISCA, 4189–4193.
