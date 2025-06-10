@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 ---
 
-- [SaarLing](https://www.uni-saarland.de/en/department/lst/news/funding-for-the-saarling-project-35579.html) ─ 2025, [Landesforschungsförderungsprogramm Saarland (https://www.saarland.de/mfw/DE/portale/wissenschaft/informationen/foerderung/landesforschungsfoerderung)
+- [SaarLing](https://www.uni-saarland.de/en/department/lst/news/funding-for-the-saarling-project-35579.html) ─ 2025, [Landesforschungsförderungsprogramm Saarland] (https://www.saarland.de/mfw/DE/portale/wissenschaft/informationen/foerderung/landesforschungsfoerderung)
 
 - [MMIK](https://www.uni-saarland.de/en/department/lst/news/funding-for-the-project-multimodal-multilingual-individualized-communication-support-mmik-35585.html) ─ 2025, Saarland University, Internationalisierungsfonds, [Transform4Europe](https://www.uni-saarland.de/global/transform4europe.html)
 
